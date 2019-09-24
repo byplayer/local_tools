@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# rm alias to use unco record for rm
-# If I use alias for it, I can't use zsh completion
-# so I added alias command
-
-unco record -- /usr/bin/rm $*
